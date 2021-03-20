@@ -18,4 +18,3 @@
      printf("Sum of digits =  %d\n",sum);  //print the sum of the numbers assigned by the user
      return 0;      // return function
  }
-© 2021 G
