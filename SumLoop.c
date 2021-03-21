@@ -17,4 +17,8 @@
 
      printf("Sum of digits =  %d\n",sum);  //print the sum of the numbers assigned by the user
      return 0;      // return function
+<<<<<<< HEAD
  }
+=======
+ }
+>>>>>>> 3d0a6a4a4c40c0b16569e009cebdc7078f5b6e81
