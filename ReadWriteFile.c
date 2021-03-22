@@ -9,7 +9,7 @@ struct s {
 	struct s a[1000],b[1000];
 	FILE *fptr;
 	int i;
-	fptr=fopen("E:\\Softwares\\C_Programs\\Ishav_160_C_Programs_Repository\\030_ReadWriteFile.txt","wb"); //Opening the file from the location.
+	fptr=fopen("E:\\Softwares\\C_Programs //Opening the file from the location.
 	for (i=0;i<1;++i) {
 		fflush(stdin);
 		printf("Enter Text: ");
